@@ -1,0 +1,79 @@
+.modest {
+  max-width: 1680px;
+  border-bottom: 1px solid #d0d5d9;
+}
+.modest-container {
+  max-width: 1140px;
+  margin: 0 auto;
+}
+.modest-header {
+}
+.modest-title {
+  margin: 90px 0 70px 0;
+  font-size: 36px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+.modest-title::before {
+  content: "";
+  width: 10px;
+  height: 30px;
+  background-color: #e1e6ea;
+  display: inline-block;
+  margin-right: 10px;
+}
+.modest-body {
+  display: flex;
+  justify-content: space-between;
+}
+.modest-right {
+  max-width: 580px;
+}
+.modest-left {
+  max-width: 580px;
+}
+.modest-text {
+  margin-bottom: 110px;
+}
+.modest-text p {
+  font-size: 16px;
+  margin-bottom: 30px;
+  line-height: 30px;
+  color: #c8cdd0;
+}
+.modest-company {
+  margin-bottom: 100px;
+}
+.modest-company img {
+  background-color: #d0d5d9;
+}
+.modest-body-items {
+  max-width: 480px;
+}
+.modest-item-body {
+  margin-left: 20px;
+  max-width: 480px;
+}
+
+.number {
+}
+
+.modest-item1 {
+  margin-bottom: 30px;
+}
+.modest-item-title {
+  text-transform: uppercase;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: #292f36;
+}
+.modest-item-text {
+  color: #c8cdd0;
+  line-height: 30px;
+}
+.modest-item2 {
+  margin-bottom: 30px;
+}
+.modest-item3 {
+  margin-bottom: 30px;
+}
