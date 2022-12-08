@@ -9,3 +9,5 @@ body {
   max-width: 1680px;
   margin: 0 auto;
 }
+body img {
+  max-width:1140px;
